@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔍 Project_Scan - Análisis y Escaneo de Red
 
 🚀 **Project_Scan** es una potente herramienta diseñada para el escaneo de redes y la detección de puertos abiertos en dispositivos conectados. Utiliza técnicas avanzadas de escaneo **ARP** y **TCP** para proporcionar una visión detallada de la infraestructura de red.
@@ -74,7 +73,4 @@ python main.py
 Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
 
 💡 **Contribuciones y sugerencias son bienvenidas**. Si tienes ideas para mejorar **Project_Scan**, ¡no dudes en colaborar! 🚀
-=======
-# Project_Scan
-Mini proyecto para escaner redes y puertos
->>>>>>> 9da467531030a1ec555f1974946dce064884e0f0
+
