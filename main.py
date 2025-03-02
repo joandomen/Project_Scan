@@ -1,8 +1,8 @@
 ## 🔥 **Archivo Principal: `main.py`**
 import threading
-from detection_arp import arp_scan
-from port_scan import scan_ports
-from network_graph import generate_network_graph
+from modules.detection_arp import arp_scan
+from modules.port_scan import scan_ports
+from modules.network_graph import generate_network_graph
 
 def network_scan(network, ports):
     print("Escaneando la red...\n")
